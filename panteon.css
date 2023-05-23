@@ -1,0 +1,1662 @@
+.panteon-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.panteon-panteon {
+  width: 100%;
+  height: 4414px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.panteon-rectangle83 {
+  top: 3712.62451171875px;
+  left: -89.68212890625px;
+  width: 313px;
+  height: 46px;
+  position: absolute;
+}
+.panteon-rectangle82 {
+  top: 3677px;
+  left: -79.184814453125px;
+  width: 388px;
+  height: 58px;
+  position: absolute;
+}
+.panteon-frame {
+  top: -74px;
+  left: -87.2421875px;
+  width: 1528.2421875px;
+  height: 1095.02392578125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-pexelscottonbro7674492 {
+  top: 74px;
+  left: 87.2421875px;
+  width: 1919px;
+  height: 950px;
+  position: absolute;
+}
+.panteon-rectangle6 {
+  top: 74px;
+  left: 88.2421875px;
+  width: 1919px;
+  height: 950px;
+  position: absolute;
+}
+.panteon-frame01 {
+  top: 113px;
+  left: 147.2421875px;
+  width: 1330px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text {
+  color: rgb(247, 147, 30);
+  width: 1040px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text001 {
+  color: #f7931e;
+}
+.panteon-text002 {
+  color: #ffffff;
+  font-size: 25px;
+}
+.panteon-text003 {
+  top: 26px;
+  left: 1114.73193359375px;
+  color: rgba(255, 255, 255, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-frame02 {
+  top: 495px;
+  left: 401.240234375px;
+  width: 812px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text005 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 68px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-frame03 {
+  left: -27px;
+  width: 654px;
+  bottom: -17px;
+  height: 774px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-rectangle17 {
+  left: -135px;
+  width: 610px;
+  bottom: 86px;
+  height: 181px;
+  position: absolute;
+}
+.panteon-rectangle19 {
+  top: 514px;
+  left: -74px;
+  width: 464px;
+  height: 111px;
+  position: absolute;
+}
+.panteon-rectangle24 {
+  top: -267px;
+  right: -763px;
+  width: 354px;
+  height: 172px;
+  position: absolute;
+}
+.panteon-rectangle25 {
+  top: -317px;
+  right: -654px;
+  width: 328px;
+  height: 199px;
+  position: absolute;
+}
+.panteon-rectangle251 {
+  left: 29px;
+  width: 154px;
+  bottom: 91px;
+  height: 137px;
+  position: absolute;
+}
+.panteon-rectangle18 {
+  top: 729px;
+  left: 66.15100860595703px;
+  width: 307px;
+  height: 46px;
+  position: absolute;
+}
+.panteon-fontistovkbutton {
+  top: 937px;
+  left: 1435.244140625px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.panteon-fontistoinstagrambutton {
+  top: 941px;
+  left: 1398.244140625px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.panteon-rectangle65 {
+  top: 950px;
+  left: 0px;
+  width: 1919px;
+  height: 970px;
+  position: absolute;
+}
+.panteon-frame04 {
+  top: 1050px;
+  left: 130px;
+  width: 1172px;
+  height: 472px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-group10 {
+  top: 72px;
+  left: 721px;
+  width: 451px;
+  height: 288px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text007 {
+  top: 84px;
+  color: rgba(255, 255, 255, 1);
+  width: 451px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text009 {
+  color: rgba(255, 255, 255, 1);
+  width: 339px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-framebutton {
+  top: 228px;
+  left: 0px;
+  width: 280px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 60px;
+  position: absolute;
+}
+.panteon-text011 {
+  top: 20px;
+  left: 33px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-pexelsleonardho1552252 {
+  top: 40px;
+  left: 338px;
+  width: 307px;
+  height: 432px;
+  position: absolute;
+}
+.panteon-pexelscottonbro7675416 {
+  top: 0px;
+  left: 0px;
+  width: 308px;
+  height: 432px;
+  position: absolute;
+}
+.panteon-frame05 {
+  top: 1622px;
+  left: 60px;
+  width: 1320px;
+  height: 85.0000228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text013 {
+  top: 4px;
+  left: 442px;
+  color: rgba(255, 255, 255, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text015 {
+  top: 4px;
+  left: 89px;
+  color: rgba(255, 255, 255, 1);
+  width: 223px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text017 {
+  top: 4px;
+  left: 767px;
+  color: rgba(255, 255, 255, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text019 {
+  top: 4px;
+  left: 1129px;
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-wallet {
+  top: 0px;
+  left: 1040px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.panteon-stationarybike {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.panteon-location7 {
+  top: 0px;
+  left: 678px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.panteon-dumbbell {
+  top: 1px;
+  left: 353px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+.panteon-frame06 {
+  top: 1954px;
+  left: 175px;
+  width: 1095.999755859375px;
+  height: 1046px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text021 {
+  left: 438px;
+  color: rgba(12, 20, 23, 1);
+  width: 216px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text023 {
+  top: 564px;
+  left: 404px;
+  color: rgba(12, 20, 23, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-group13 {
+  top: 114px;
+  left: 0px;
+  width: 1095.999755859375px;
+  height: 370px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text025 {
+  top: 86px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 212px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text030 {
+  top: 186px;
+  left: 2px;
+  color: rgba(12, 20, 23, 1);
+  width: 212px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text035 {
+  top: 311px;
+  left: 1.970458984375px;
+  color: rgba(12, 20, 23, 1);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text037 {
+  top: 98px;
+  left: 285.9996643066406px;
+  color: rgba(12, 20, 23, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text039 {
+  top: 210px;
+  left: 285.9996337890625px;
+  color: rgba(12, 20, 23, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text041 {
+  top: 322px;
+  left: 285.9996337890625px;
+  color: rgba(12, 20, 23, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text043 {
+  top: 74px;
+  left: 673.9996948242188px;
+  color: rgba(12, 20, 23, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text050 {
+  top: 186px;
+  left: 673.999755859375px;
+  color: rgba(12, 20, 23, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text055 {
+  top: 298px;
+  left: 673.999755859375px;
+  color: rgba(12, 20, 23, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text062 {
+  top: 74px;
+  left: 903.9996948242188px;
+  color: rgba(12, 20, 23, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text069 {
+  top: 186px;
+  left: 903.999755859375px;
+  color: rgba(12, 20, 23, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text076 {
+  top: 298px;
+  left: 903.999755859375px;
+  color: rgba(12, 20, 23, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text081 {
+  left: 1.9996623992919922px;
+  color: rgba(12, 20, 23, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text083 {
+  left: 253.99969482421875px;
+  color: rgba(12, 20, 23, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text085 {
+  left: 468.9996643066406px;
+  color: rgba(12, 20, 23, 1);
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text087 {
+  left: 700.9996948242188px;
+  color: rgba(12, 20, 23, 1);
+  width: 141px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text089 {
+  left: 925.9996948242188px;
+  color: rgba(0, 0, 0, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text091 {
+  top: 210px;
+  left: 449.9996337890625px;
+  color: rgba(12, 20, 23, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text092 {
+  top: 322px;
+  left: 449.9996337890625px;
+  color: rgba(12, 20, 23, 1);
+  width: 195px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text093 {
+  top: 74px;
+  left: 468.9996643066406px;
+  color: rgba(12, 20, 23, 1);
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-line3 {
+  top: 39px;
+  left: 0px;
+  width: 1095px;
+  height: 1px;
+  position: absolute;
+}
+.panteon-frame1 {
+  top: 674px;
+  left: 55px;
+  width: 308px;
+  height: 372px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.panteon-text098 {
+  top: 199px;
+  left: 118px;
+  color: rgba(12, 20, 23, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text100 {
+  top: 244px;
+  left: 95px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text102 {
+  top: 100px;
+  left: 105px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text104 {
+  top: 32px;
+  left: 20px;
+  color: rgba(12, 20, 23, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-group18button {
+  top: 294px;
+  left: 44px;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-rectangle171 {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 50px;
+  position: absolute;
+}
+.panteon-text106 {
+  top: 15px;
+  left: 81px;
+  color: rgba(247, 147, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-gymtime {
+  top: 150px;
+  left: 137px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.panteon-frame2 {
+  top: 674px;
+  left: 393px;
+  width: 308px;
+  height: 372px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.panteon-text108 {
+  top: 197px;
+  left: 118px;
+  color: rgba(12, 20, 23, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text110 {
+  top: 242px;
+  left: 95px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text112 {
+  top: 98px;
+  left: 100px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text114 {
+  top: 30px;
+  left: 20px;
+  color: #000000;
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-gymtime1 {
+  top: 148px;
+  left: 137px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.panteon-frame3 {
+  top: 674px;
+  left: 731px;
+  width: 308px;
+  height: 372px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.panteon-text118 {
+  top: 197px;
+  left: 118px;
+  color: rgba(12, 20, 23, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text120 {
+  top: 242px;
+  left: 95px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text122 {
+  top: 98px;
+  left: 47px;
+  color: rgba(12, 20, 23, 0.5);
+  width: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text124 {
+  top: 30px;
+  left: 63px;
+  color: rgba(12, 20, 23, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-group18button1 {
+  top: 292px;
+  left: 44px;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-rectangle172 {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 50px;
+  position: absolute;
+}
+.panteon-rectangle173 {
+  top: 0px;
+  left: -339px;
+  width: 220px;
+  height: 50px;
+  position: absolute;
+}
+.panteon-text126 {
+  top: 15px;
+  left: 81px;
+  color: rgba(247, 147, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text128 {
+  top: 15px;
+  left: -258px;
+  color: rgba(247, 147, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-gymtime2 {
+  top: 148px;
+  left: 137px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.panteon-frame07 {
+  top: 3006px;
+  left: 0px;
+  width: 1440px;
+  height: 600px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(12, 20, 23, 0.4000000059604645);
+}
+.panteon-pexelsivansamkov4164520 {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 600px;
+  position: absolute;
+}
+.panteon-frame08 {
+  top: 111px;
+  left: 916px;
+  width: 351px;
+  height: 378px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-line5input {
+  top: 168px;
+  left: 0px;
+  width: 351px;
+  height: 1px;
+  position: absolute;
+}
+.panteon-line6input {
+  top: 228px;
+  left: 0px;
+  width: 351px;
+  height: 1px;
+  position: absolute;
+}
+.panteon-text130 {
+  top: 133px;
+  color: rgba(255, 255, 255, 0.5);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text132 {
+  top: 193px;
+  color: rgba(255, 255, 255, 0.5);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text134 {
+  top: 338px;
+  left: 35px;
+  color: rgba(255, 255, 255, 0.5);
+  width: 280px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text136 {
+  left: 38px;
+  color: rgba(255, 255, 255, 1);
+  width: 275px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text138 {
+  top: 55px;
+  color: rgba(255, 255, 255, 1);
+  width: 351px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text139 {
+  color: rgba(255, 255, 255, 1);
+}
+.panteon-group6button {
+  top: 258px;
+  left: 35px;
+  width: 280px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-rectangle15 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 60px;
+  position: absolute;
+}
+.panteon-text144 {
+  top: 20px;
+  left: 33px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-rectangle81 {
+  top: 4105px;
+  left: 1px;
+  width: 1440px;
+  height: 309px;
+  position: absolute;
+}
+.panteon-frame09 {
+  top: 3606px;
+  left: -3px;
+  width: 1443px;
+  height: 567px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-image6 {
+  top: 0px;
+  left: 0px;
+  width: 1919px;
+  height: 567px;
+  position: absolute;
+}
+.panteon-rectangle80 {
+  top: 59px;
+  left: 177px;
+  width: 396px;
+  height: 449px;
+  position: absolute;
+}
+.panteon-text146 {
+  top: 193px;
+  left: 253px;
+  color: rgba(255, 255, 255, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text148 {
+  top: 293px;
+  left: 256px;
+  color: rgba(255, 255, 255, 1);
+  width: 157px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text153 {
+  top: 243px;
+  left: 253px;
+  color: rgba(255, 255, 255, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text158 {
+  top: 382px;
+  left: 212px;
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-location131 {
+  top: 193px;
+  left: 213px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.panteon-phone1 {
+  top: 290px;
+  left: 216px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.panteon-fontistoinstagrambutton1 {
+  top: 433px;
+  left: 212px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.panteon-clock17 {
+  top: 242px;
+  left: 213px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.panteon-vk7 {
+  top: 430px;
+  left: 176px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.panteon-text163 {
+  top: 109px;
+  left: 215px;
+  color: rgba(255, 255, 255, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-fontistovkbutton1 {
+  top: 429px;
+  left: 249px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.panteon-frame10 {
+  top: 4173px;
+  left: 0px;
+  width: 1919px;
+  height: 241px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(0, 0, 0, 1);
+}
+.panteon-text165 {
+  top: 50px;
+  left: 45px;
+  color: rgba(247, 147, 30, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-group23 {
+  top: 50px;
+  left: 60px;
+  width: 1320px;
+  height: 141px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.panteon-text167 {
+  left: 305px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text172 {
+  left: 449px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text177 {
+  left: 595px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text182 {
+  left: 1067px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text184 {
+  top: 39px;
+  left: 1067px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text186 {
+  top: 78px;
+  left: 1067px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 253px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text191 {
+  top: 117px;
+  left: 1067px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 237px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text196 {
+  top: 79px;
+  left: 27px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 168px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-fontistoinstagrambutton2 {
+  top: 43px;
+  left: 849px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.panteon-fontistovkbutton2 {
+  top: 39px;
+  left: 886px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.panteon-text198 {
+  left: 849px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-text200 {
+  top: 79px;
+  color: rgba(255, 255, 255, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.panteon-rectangle66 {
+  top: 1707px;
+  left: -164px;
+  width: 492px;
+  height: 213px;
+  position: absolute;
+}
+.panteon-rectangle67 {
+  top: 1677px;
+  left: -160px;
+  width: 390px;
+  height: 208px;
+  position: absolute;
+}
+.panteon-frame7 {
+  top: 512px;
+  left: 575px;
+  width: 290px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.panteon-rectangle14button {
+  top: 8px;
+  left: 0px;
+  width: 280px;
+  height: 60px;
+  position: absolute;
+}
+.panteon-rectangle151 {
+  top: 0px;
+  left: 10px;
+  width: 280px;
+  height: 60px;
+  position: absolute;
+}
+.panteon-text202 {
+  top: 20px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
